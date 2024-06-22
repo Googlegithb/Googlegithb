@@ -143,5 +143,16 @@
  </tr>
 </table>
 
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Googlegithb&show_icons=true&theme=transparent"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jalang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Googlegithb" /></a><a href="https://ko-fi.com/Googlegithb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Googlegithb" /></a></p><br><br>
