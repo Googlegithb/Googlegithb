@@ -145,11 +145,12 @@
 ## Github stats 📊
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/Googlegithb]"><img alt="Googlegithb's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Googlegithb&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Googlegithb&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Googlegithb&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 </details>
 
 <details>
