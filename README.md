@@ -144,6 +144,9 @@
  </tr>
 </table>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Googlegithb&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ## Github stats 📊
 
 <details>
