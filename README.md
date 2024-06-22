@@ -147,12 +147,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Googlegithb&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Googlegithb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-  <a href="https://github.com/Googlegithb]"><img alt="Googlegithb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+  <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
   <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Googlegithb&theme=radical&hide_border=false" height="192px"/></a>
   <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
   <br/>
