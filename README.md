@@ -173,7 +173,7 @@
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Googlegithb&label=PROFILE+VIEWS&style=for-the-badge&icon=5&color=4">
+  <img src="https://komarev.com/ghpvc/?username=Googlegithb&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
