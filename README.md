@@ -153,6 +153,65 @@
   <br/>
 </details>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Googlegithb&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Googlegithb&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/share/@Googlegithb/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+  <br/>
+  <br/>
+
+  <img src="https://wakatime.com/share/@Googlegithb/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+</details>
+
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/Kemana-mana/wadc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Googlegithb&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/Kemana-mana/map">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Googlegithb&repo=Happier&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/Googlegithb/natives">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Googlegithb&repo=telegram-bot-template&theme=default" />
+ </a>
+
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/Googlegithb/genesisys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Googlegithb&repo=personal-site&theme=default" />
+ </a>
+ 
+</details>
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jalang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Googlegithb" /></a><a href="https://ko-fi.com/Googlegithb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Googlegithb" /></a></p><br><br>
