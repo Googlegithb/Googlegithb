@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Google</h1>
 <h3 align="center"> Hanya Seorang Yang Terseat Dijalan Buntu!!</h3>
 
-<img align="right" alt="Coding" width="250" height="400" src="idk.jpg">
+<img align="right" alt="Coding" width="250" height="400" src="[idk.jpg](https://github.com/Googlegithb/Googlegithb/assets/59081145/75bad57b-d34d-405e-86ea-14f784c202a6)">
 
 - 👨‍💻 You can also check out my portfolio at [https://Googlegithb.github.io/](https://github.com/Googlegithb)
 
 - 📫 How to reach me **google@hush.ai**
 
 - ⚡ Fun fact **I think I am funny XD**
- ![solo-leveling](https://github.com/Googlegithb/Googlegithb/assets/59081145/9cbfb1bb-5f2c-476f-a7bd-8aeb2746fc65)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
