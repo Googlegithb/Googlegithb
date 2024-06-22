@@ -155,7 +155,7 @@
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-  <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+  <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Github Stats" src="https://visitcount.itsvg.in/api?id=Googlegithb&icon=5&color=4" height="192px"/></a>
   <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Googlegithb&theme=radical&hide_border=false" height="192px"/></a>
   <a href="https://github.com/Googlegithb"><img alt="Googlegithb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Googlegithb&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
   <br/>
