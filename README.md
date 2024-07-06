@@ -149,6 +149,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Googlegithb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Googlegithb&langs_count=5&theme=tokyonight)
 
 ## Github stats 📊
 
